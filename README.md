@@ -6,7 +6,7 @@
 
 Neste blog, você encontrará conteúdo sobre:
 
-- Dicas e tutoriais de desenvolvimento front-end.
+- Dicas e tutoriais de desenvolvimento.
 - Reflexões sobre minha experiência como desenvolvedor.
 - Projetos pessoais e colaborações com a comunidade.
 

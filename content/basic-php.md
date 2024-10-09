@@ -200,7 +200,7 @@ $joao->exibirNome();  // Saída: Nome: João
 | ≤          | Menor ou igual |
 | ≥          | Maior o igual  |
 
-| Logico   |           |
+| Lógico   |           |
 | -------- | --------- |
 | and / && | And (e)   |
 | or       | Or (ou)   |
