@@ -35,11 +35,9 @@ _Imagem de: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dopamine
 
 A dopamina é como o motor que nos impulsiona em direção ao que desejamos. Ela é liberada quando prevemos algo bom acontecendo, e sua função é nos motivar a buscar essa recompensa. Isso acontece porque a dopamina ativa regiões do cérebro que fazem parte do sistema de recompensa, como o núcleo accumbens, incentivando comportamentos que acreditamos que nos farão felizes.
 
-### Desequilíbrios na Dopamina
+## Desequilíbrios na Dopamina
 
 A dopamina, quando equilibrada, nos ajuda a ter uma vida saudável e satisfatória. No entanto, quando há um desequilíbrio – seja um excesso ou uma deficiência – podem surgir problemas significativos, impactando nossa saúde mental e física.
-
-## Excesso de Dopamina: Vícios e Psicose
 
 ### Dopamina e Dependência
 
@@ -51,13 +49,7 @@ Quando os níveis de dopamina ficam descontrolados, o cérebro pode se tornar vi
 
 Por outro lado, uma deficiência de dopamina pode ter efeitos igualmente devastadores. A doença de Parkinson, por exemplo, é caracterizada por uma perda progressiva de células que produzem dopamina, levando a sintomas motores debilitantes, como tremores, rigidez muscular e dificuldades de movimento. Nesse contexto, a dopamina não só influencia a nossa felicidade, mas também nossa capacidade de nos movimentarmos com liberdade e controle.
 
-### Comportamentos de Dependência
-
-Nosso cérebro foi projetado para associar prazer com sobrevivência. Assim, atividades que inicialmente são prazerosas e inofensivas, como comer uma sobremesa ou jogar videogame, podem se transformar em hábitos compulsivos. Isso ocorre porque essas atividades elevam os níveis de dopamina, reforçando o desejo de repetição. No entanto, ao longo do tempo, o cérebro começa a precisar de mais e mais estímulos para obter o mesmo nível de satisfação – um fenômeno conhecido como tolerância.
-
 ## Modulação dos Níveis de Dopamina
-
-### Impacto dos Hábitos e do Estilo de Vida
 
 Atividades físicas, por exemplo, são conhecidas por estimular a produção de dopamina. Exercícios físicos regulares, especialmente aeróbicos, têm um efeito positivo e sustentado, ajudando a manter um equilíbrio saudável desse neurotransmissor. Além disso, uma dieta rica em alimentos que contêm precursores da dopamina – como tirosina, presente em carnes, ovos e nozes – também pode ajudar.
 
@@ -71,10 +63,4 @@ Para quem enfrenta desequilíbrios mais graves, existem tratamentos farmacológi
 - **"O Poder do Hábito"** de Charles Duhigg - Este livro discute como os hábitos são formados e como a dopamina está envolvida nesse processo, ajudando a entender a ciência por trás das recompensas.
 - **"Nação Dopamina"** da Dra. Anna Lembke - Psiquiatra e professora da Escola de Medicina da renomada Universidade Stanford, explora as novas e empolgantes descobertas científicas que explicam por que a busca incansável do prazer gera mais sofrimento do que felicidade.
 
-## Autores:
-
-- Ana Clara Andrade da Silva
-- Carlos Eduardo Trindate
-- Grazielle Cruz Magalhães
-- Pedro Luan Lopes Neves
-- Iasmin Martins de Azevedo
+👋 Concluímos por hoje. Agradeço pela interação e até a próxima!

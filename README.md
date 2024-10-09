@@ -15,16 +15,8 @@ Neste blog, você encontrará conteúdo sobre:
 - **Markdown** (para gerenciamento de conteúdo)
 - **🪴 [Quartz 4.0](https://quartz.jzhao.xyz/)**
 
-## Funcionalidades
-
-- Criação de postagens em Markdown.
-- Sistema de tags para organização de conteúdo.
-- Interface simples e responsiva.
-
 ## Licença
 
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
----
+Este projeto é licenciado sob a [MIT License](LICENSE.txt).
 
 ### Sinta-se à vontade para explorar o conteúdo: [Dev Journal](https://blog.carlosdev.top/)

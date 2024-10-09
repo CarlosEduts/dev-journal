@@ -182,12 +182,14 @@ $joao->exibirNome();  // Saída: Nome: João
 | /          | Divisão       |
 | %          | Modulo        |
 | \*\*       | Exponenciação |
-| Atribuição |               |
-| +=         | a = a + b     |
-| -=         | a = a - b     |
-| \*=        | a = a \* b    |
-| /=         | a = a / b     |
-| %=         | a = a % b     |
+
+| Atribuição |            |
+| ---------- | ---------- |
+| +=         | a = a + b  |
+| -=         | a = a - b  |
+| \*=        | a = a \* b |
+| /=         | a = a / b  |
+| %=         | a = a % b  |
 
 | Comparação |                |
 | ---------- | -------------- |
@@ -232,7 +234,7 @@ switch ($x) {
         print "x é DOIS"
         break;
     default:
-		    print "x é diferente de ZERO e DOIS"
+		print "x é diferente de ZERO e DOIS"
 }
 
 ```
@@ -244,14 +246,14 @@ switch ($x) {
 $i = 1;
 
 while($i <= 5){
-		echo $i++; # >> 12345
+	echo $i++; # >> 12345
 }
 
 // do while (O loop é execultado ao menos uma vez se a condição não for atendida)
 $x = 1;
 
 do {
-		echo $x++; # >> 1
+	echo $x++; # >> 1
 } while ($x <= 1);
 ```
 
