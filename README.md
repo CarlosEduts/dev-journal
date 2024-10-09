@@ -19,4 +19,4 @@ Neste blog, você encontrará conteúdo sobre:
 
 Este projeto é licenciado sob a [MIT License](LICENSE.txt).
 
-### Sinta-se à vontade para explorar o conteúdo: [Dev Journal](https://blog.carlosdev.top/)
+### Sinta-se à vontade para explorar o conteúdo: [☕ Dev Journal](https://blog.carlosdev.top/)
