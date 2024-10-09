@@ -27,7 +27,7 @@ Dopamina é um neurotransmissor, uma substância química que transmite sinais n
 
 **Função como neurotransmissor:** A dopamina é liberada nas sinapses e atua ligando-se a receptores dopaminérgicos em neurônios adjacentes. Existem cinco tipos principais de receptores de dopamina (D1 a D5), e suas ações variam dependendo da região do cérebro em que são ativados. Ela está envolvida na coordenação de movimentos, regulação de humor, motivação, cognição e controle do sistema de recompensa.
 
-![dopamine-learning-motivation.webp](https://upload.wikimedia.org/wikipedia/commons/0/0c/Dopamine_HD.jpg)
+![dopamine-learning-motivation.webp](./static/dopamine-molecule.jpg)
 
 _Imagem de: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dopamine_HD.jpg)_
 
@@ -46,8 +46,6 @@ A dopamina, quando equilibrada, nos ajuda a ter uma vida saudável e satisfatór
 A busca pelo prazer pode ser viciante, e isso tem muito a ver com a dopamina. Vários comportamentos diários – como jogar, comer, e até navegar nas redes sociais – podem se transformar em uma necessidade constante de recompensa.
 
 Quando os níveis de dopamina ficam descontrolados, o cérebro pode se tornar viciado em certos estímulos. Isso é especialmente evidente com substâncias como drogas, que aumentam a dopamina a níveis extremos, causando uma sensação de euforia que, por sua vez, incentiva o uso repetido. Esse ciclo de dependência é alimentado por essa busca desenfreada por prazer.
-
-No entanto, um excesso de dopamina pode também levar a condições mentais como psicose e esquizofrenia. Nesses casos, o excesso de atividade dopaminérgica em regiões específicas do cérebro pode provocar sintomas como alucinações e delírios, prejudicando a percepção da realidade.
 
 ### Deficiência de Dopamina: A Doença de Parkinson
 
@@ -75,4 +73,8 @@ Para quem enfrenta desequilíbrios mais graves, existem tratamentos farmacológi
 
 ## Autores:
 
+- Ana Clara Andrade da Silva
 - Carlos Eduardo Trindate
+- Grazielle Cruz Magalhães
+- Pedro Luan Lopes Neves
+- Iasmin Martins de Azevedo

@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pt-BR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "blog.carlosdev.top",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -34,7 +34,7 @@ const config: QuartzConfig = {
           gray: "#9ca3af",
           darkgray: "#374151",
           dark: "#111827",
-          secondary: "#ff6b6b",
+          secondary: "#E25F5F",
           tertiary: "#ff8888",
           highlight: "rgba(255, 184, 108, 0.2)",
           textHighlight: "#ffed4a88",
