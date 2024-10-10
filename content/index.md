@@ -2,10 +2,10 @@
 title: 👋 Bem-vindo ao Dev Journal!
 description: Um espaço pessoal dedicado ao desenvolvimento e a tecnologia, onde compartilho tutoriais, reflexões e projetos.
 draft: false
-date: 2024-10-08
+date: 2024-09-16
 ---
 
-Olá! Meu nome é **Carlos Eduardo** e este é o meu espaço pessoal dedicado ao desenvolvimento e a tecnologia. Aqui, compartilho minhas experiências, aprendizados e reflexões sobre o mundo do desenvolvimento de software.
+Oi, eu sou **Carlos Eduardo**, e este é o meu espaço pessoal, onde falo sobre desenvolvimento e tecnologia. Aqui, compartilho minhas experiências, aprendizados e reflexões sobre o mundo do desenvolvimento de software.
 
 ## Mídias Sociais
 
