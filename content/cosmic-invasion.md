@@ -14,7 +14,7 @@ aliases:
   - jogo com QR code
 ---
 
-![Imagem do Jogo: Cosmic Invasion](./static/cosmic-invasion.png)
+![Imagem do Jogo: Cosmic Invasion](./static/images/cosmic-invasion.png)
 
 Fala, Devs! Como estão?
 
